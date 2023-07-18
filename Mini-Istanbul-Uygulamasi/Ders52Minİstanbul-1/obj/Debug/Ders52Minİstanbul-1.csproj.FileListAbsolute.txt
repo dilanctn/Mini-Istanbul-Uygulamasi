@@ -1,0 +1,13 @@
+C:\Users\Monster\source\repos\Ders52Minİstanbul-1\Ders52Minİstanbul-1\bin\Debug\Ders52Minİstanbul-1.exe.config
+C:\Users\Monster\source\repos\Ders52Minİstanbul-1\Ders52Minİstanbul-1\bin\Debug\Ders52Minİstanbul-1.exe
+C:\Users\Monster\source\repos\Ders52Minİstanbul-1\Ders52Minİstanbul-1\bin\Debug\Ders52Minİstanbul-1.pdb
+C:\Users\Monster\source\repos\Ders52Minİstanbul-1\Ders52Minİstanbul-1\obj\Debug\Ders52Minİstanbul-1.csprojAssemblyReference.cache
+C:\Users\Monster\source\repos\Ders52Minİstanbul-1\Ders52Minİstanbul-1\obj\Debug\Ders52Minİstanbul_1.Properties.Resources.resources
+C:\Users\Monster\source\repos\Ders52Minİstanbul-1\Ders52Minİstanbul-1\obj\Debug\Ders52Minİstanbul-1.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\Ders52Minİstanbul-1\Ders52Minİstanbul-1\obj\Debug\Ders52Minİstanbul-1.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\Ders52Minİstanbul-1\Ders52Minİstanbul-1\obj\Debug\Ders52Minİstanbul-1.exe
+C:\Users\Monster\source\repos\Ders52Minİstanbul-1\Ders52Minİstanbul-1\obj\Debug\Ders52Minİstanbul-1.pdb
+C:\Users\Monster\source\repos\Ders52Minİstanbul-1\Ders52Minİstanbul-1\obj\Debug\Ders52Minİstanbul_1.FrmAnaSayfa.resources
+C:\Users\Monster\source\repos\Ders52Minİstanbul-1\Ders52Minİstanbul-1\obj\Debug\Ders52Minİstanbul_1.FrmCamiler.resources
+C:\Users\Monster\source\repos\Ders52Minİstanbul-1\Ders52Minİstanbul-1\obj\Debug\Ders52Minİstanbul_1.FrmHarita.resources
+C:\Users\Monster\source\repos\Ders52Minİstanbul-1\Ders52Minİstanbul-1\obj\Debug\Ders52Minİstanbul_1.FrmKamera.resources

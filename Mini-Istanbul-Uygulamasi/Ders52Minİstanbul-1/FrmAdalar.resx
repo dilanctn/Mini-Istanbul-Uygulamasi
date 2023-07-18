@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>Prens Adaları, İstanbul Adaları[3] ya da Kızıl Adalar (Yunanca: Πριγκηπονήσια Pringiponisia),[3] İstanbul'un Anadolu Yakası'nın güney kıyılarının açıklarında, Marmara Denizi'nin kuzeydoğu kesiminde yer alan ve kısaca Adalar olarak anılan takımadadır.
+
+Büyüklü küçüklü 9 ada ve kıyıya yakın iki kayalıktan oluşur.[3] Aynı zamanda İstanbul ilinin bir ilçesini oluşturan Adaların beşinde (Büyükada, Heybeliada, Burgazada, Kınalıada ve Sedefadası) yerleşim vardır. Sivriada, Yassıada, Kaşık Adası ve Tavşan Adası'nda ise sürekli ve düzenli yerleşim bulunmamaktadır. Kıyıya yakın kayalıkların (Yıldız ve Dilek kayalıkları) ise 1010 yılındaki depremde batmış olan Vordonos Adaları'nın zirveleri olduğu bilinmektedir.[4][5] Adalar ilçesinin merkezi Büyükada olup, ilçe 5 mahalleden oluşmaktadır; Büyükada'daki Maden ve Nizam mahalleleri, Kınalıada, Burgazada ve Heybeliada. 2013 verilerine göre nüfusu 16.166'dır.
+
+Adalar, tarih boyunca çeşitli kaynaklarda ve dönemlerde çeşitli adlarla anılmıştır. Bunların en yaygını Batı kaynaklarının kullandığı "Prens Adaları" ya da "Prensler Adaları"dır. Bu ad adalara, Bizans döneminde soyluların, prenslerin, patriklerin hatta imparatorların sürgün yeri olarak kullanıldıkları; kimi kaynaklara göre de, Bizans İmparatoru II. Justinus 567'de Büyükada'da görkemli bir saray ve manastır yaptırdığı için verilmiştir. Antik dönemde adalara Dimonisi veya Demonisi (Cin Adaları) denmiş, Aristoteles "Demonisi"nin Heybeliada'da ilk kez bakır madeni işleten birinin adı olduğunu ve adaların giderek onun adıyla anıldığını ileri sürmüş, kendisi ise Halkedon (Kadıköy) Adaları demiştir. Yunan filozof Artemidoros, Pitiusa (Çamlı), Romalı tabiat bilgini Plinius, Propontidas (Marmara Adaları) derken Bizanslılar burada yaşayan keşişlerden dolayı Papadonisia (Papaz Adaları, Keşiş Adaları) demişler; tarihçi Hammer, Les İles des Saint (Evliya Adaları), Thomas Allom Demonesca, Türkler, topraklarının renginden dolayı Kızıl Adalar diye adlandırmışlardır.[6]
+
+Adaların Yunanca adları şöyledir; Büyükada (Πρίγκηπος/Prinkipos), Heybeliada (Χάλκη/Halki), Burgazadası (Αντιγόνη/Antigoni), Kınalıada (Πρώτη/Proti), Sedefadası (Τερέβινθος/Terebinthos, modern Yunanca: Αντιρόβυθος/Antirovithos), Yassıada (Πλάτη/Plati), Kaşıkadası (Πίτα/Pita), Sivriada (Οξειά/Ohia) ve Tavşanadası (Νέανδρος/Neandros).
+
+Adalar, Dördüncü Zaman başlarındaki yerkabuğu hareketleri sırasında boğazlar açılıp Trakya-Kocaeli penepleninin güney kesimleri sularla kaplanırken, peneplenin su üstünde kalmış parçalarıdır. Adaların, Kocaeli Yarımadası'nın batısını kapsayan eski bir kitlenin parçaları oldukları, coğrafi konumları ve jeolojik yapı özelliklerinin yanı sıra, bölgenin denizaltı topoğrafyasından da anlaşılmaktadır. Burada, güneydoğuya doğru derinleşen bir platform Kocaeli Yarımadası'na doğru yavaş yavaş yükselerek Büyükada ile Dragos arasında 10–15 m derinlikte bir sırt haline gelir. Yapılan ölçüm ve araştırmalar, bütün adalar arasında, sular altında kalmış eski bir nehrin vadileri olduğu sanılan olukların; adaların kuzeybatısında da, Boğaziçi kanalının devamı olduğu tahmin edilen bir oluğun varlığını göstermektedir.
+
+Adalar çeşitli yükseklikteki tepelerden oluşur. Büyükada'nın, Yüce (Aya Yorgi): 203 m, İsa (Hristos): 163 m, Tepeköy (Nevruz): 150 m, Avcı: 145 m'lik dört tepesi; Heybeli'nin Değirmen: 136 m, Köy 128 m, Makarios 98 m, Ümit 85 m yükseklikteki dört tepesi; Burgazadası'nın 170 m'lik Bayrak (Hristos) Tepesi, Kınalı'nın Çınar: 115 m, Teşvikiye: 115 m, Manastır: 93 m'lik üç tepesi vardır. Sedefadası 55 m'lik, Yassıada 46 m, Sivriada 90 m, Kaşıkadası 13 m, Tavşanadası da 40 m'lik birer tepeye sahiptirler. Adalarda akarsu ve göl yoktur.
+
+Adaları merkez ve çevre olarak iki büyük gruba ayırmak mümkündür: Büyükada, Haybeliada, Burgaz ve Kaşıkadası merkez grubudur. Bu adalar, çevredeki Sedefadası, Tavşanadası, Yassıada, Sivriada ve Kınalıada'dan daha yüksektir.
+
+Adalar'ın İstanbul'a uzaklıkları, en yakın Kınalıada, en uzak Tavşanadası olmak üzere 7 deniz miliyle 13,5 deniz mili (25 km) arasında değişir. Yassıada ile Sivriada hariç Adalar, en batıdaki Kınalıada'dan en doğudaki Sedef Adası arasında kuzeybatı-güneydoğu doğrultusunda 12 km'lik bir hatta dizilidir.
+
+Takımadaları oluşturan 9 ada dışında, Bostancı ile Kınalıada arasında suyun oldukça sığ olduğu bölgede, biri Bostancı, diğeri Maltepe açıklarındaki sığlıkta, üzerlerinde fener bulunan iki kayalık yer alır. Bu kayalıklardan Bostancı'ya yakın olanı Vordonos Adası olarak bilinir. Bu adacığa Yıldız Kayalığı da denir. Maltepe'ye yakın olanının adı ise Dilek Kayalığıdır.[7]
+
+Adaların toprağı, demir oksitli kırmızı topraktır. Kireç tabakalarına karışmış bol miktarda demir filizi toprağa kızıl bir renk verir. Bu toprak, ağaç, meyve, sebze, çiçek tarımına elverişlidir. Çevre maden bakımından zengindir. Büyükada'da, Maden semtinde, eskiden demir çıkartılıp işlendiği; Heybeliada Çamlimanı'nda bakırla karışık demir yataklarının bulunduğu, ayrıca saf bakır madeni çıkarıldığı için adaya "bakır" anlamında Halki adı verildiği, boraks madeninin de bulunduğu bilinmektedir. Günümüzde demir ve bakır madenleri tükenmiş durumdadır.
+
+Adaların iklimi ana çizgileriyle İstanbul kentinin aynıdır. Ancak konumları nedeniyle bazı özellikler de gösterir. Sıcaklık birkaç derece daha fazladır. Kışın kar pek az görülür. Yazın da İstanbul'un diğer bölgelerine oranla daha az yağış alır. Sise az rastlanır ve çabuk dağılır. Sonbahar, genellikle ilkbahardan daha sıcak geçer. İlkbahar aylarının özellikleri birkaç hafta içinde sona erer ve yaza geçilir. Rüzgâr rejimi de genelde İstanbul'un aynıdır, ama adaların konumları bu rüzgârların etkilerini yumuşatır. Karşı kıyıda bulunan Aydos, Kayış Dağı, Alemdağı, Küçük ve Büyük Çamlıca tepeleri, Kınalıada hariç diğer adaları poyraz rüzgârından korur. Kışın daha çok Karayel eser. Batı rüzgârı mayıs ayından itibaren aralıklarla esmeye başlar. Batı-karayel adalar çevresinde fırtınalara yol açan en tehlikeli rüzgârlardır. Sonbahar, kış ve ilkbahar aylarında zaman zaman esen lodos, adaları ısıtır. Sıcak mevsimlerde ise, yerel bir rüzgâr olan meltem havayı serinletir. Bu iklim ve rüzgâr özellikleri adaları sevilen bir yazlık ve dinlenme yeri yapar. Adalar zengin ve çeşitli bir bitki örtüsünü sahiptir. Makiler ve çamlar hakim doğal örtüyü oluşturur. Akdeniz ikliminin tipik bitkisi olan makiler, ilkbaharda birden rengarenk çiçeklenir ve hoş kokular yayar. Taşmeşesi, süpürge çalısı, sakız, kocayemiş, katırtırnağı, mersin, bodur ardıç, laden ayrıca yabani zeytin, kekik, lavanta, adaçayı, zakkum sık rastlanan türlerdendir. Adalar deyince hemen akla gelen çamlar, makilerden sonra en yaygın bitki ve ağaç türüdür. En çok Heybeliada'da görülen çamlar, kızılçam da denilen "Pinus Brutia"lar grubundadır. Büyükada'nın kuzey kesimlerinde fıstık çamları, manastır ve mezarlıklar çevresinde serviler, yollarda akasyalar, ıhlamurlar, bahçelerde çeşitli süs ve meyve ağaçları bulunur. Adaların karakteristik bitkilerinden biri de mimozadır. Mimozalar yanında, adaların gülleri, şebboyları, petunyaları, lale ve sümbülleri, glayörleri, beyaz sarı pompon gülleri, ortanca ve kasımpatıları ünlüdür.
+
+Meskun adalarda av hayvanı kalmadığı gibi artık tavşan da yoktur. Tavşanadası, Sivriada ve Sedefadası'nda adatavşanı bulunur. Bölge kuş açısından zengindir. Martılar, kargalar, karabatak, ispinoz, serçe, kızılgerdan (narbülbülü), kaya güvercini, sığırcık, saksağan, saka vardır. Av kuşlarından, mevsiminde keklik, bıldırcın, çulluk, yabani kaz görülür. Tarih boyunca balıkçılığın ana uğraş olduğu ünlü adalarda 1950'ler, hele de 1970'lerden sonra balık cinslerinin büyük kısmının nesilleri hızla tükenmiştir.</value>
+  </data>
+  <data name="richTextBox2.Text" xml:space="preserve">
+    <value>Adalara, coğrafi konumları nedeniyle yalnızca deniz yoluyla (vapur, motor ve deniz otobüsleri) ulaşım sağlanabilmektedir. Adalar'a ilk vapur seferleri Galata Köprüsü'nden 1846 yılında başlamıştır.[kaynak belirtilmeli]
+
+Günümüzde, her gün karşılıklı olarak Şehir Hatları vapurları ile Kabataş-Kadıköy-Kınalıada-Burgazada-Heybeliada-Büyükada ve Bostancı-Kınalıada-Burgazada-Heybeliada-Büyükada seferleri, İstanbul Deniz Otobüsleri ile de Kabataş-Kınalıada-Burgazada-Heybeliada-Büyükada-Bostancı seferleri düzenlenmektedir. Bunlar dışında motorlarla (Mavi Marmara, Prens Tur, Dentur, Turyol) hem adalar arasında hem de adalardan Bostancı, Maltepe, Kabataş, Kartal ve Yalova'ya seferler düzenlenir.
+
+Adalardan en yakın noktaya ulaşım 25 dakika sürerken, en uzak noktadan ulaşım yaklaşık 1,5 saat sürmektedir. Adalar'a sefer yapan firmalar genelde yaz ve kış olarak 2 tarife kullanmaktadır. Bu seferlerin sıklığı da hafta içi ve hafta sonu günlerde değişmektedir. İlgili seferler tarifeler kullanılarak takip edilebilmektedir.
+
+Adalar'da az sayıda kamu taşıtının dışında, motorlu taşıt kullanımı bir dönem yasak olduğu için iç ulaşım atlı faytonlar tarafından sağlanmaktaydı. 16 Ocak 2020 tarihli İstanbul Büyükşehir Belediyesi meclis oturumunda alınan karar ile atlı fayton dönemi tamamen sona erdi.[38] Alınan bu kararı, 19 Ocak 2020 tarihli köşe yazısında Cumhuriyet gazetesi yazarı Zülal Kalkandelen "Adalar’da atlı fayton utancına son!" başlığıyla duyurdu.[39] 30 Temmuz 2020 tarihinden itibaren Adalar'da ulaşım elektrikli araçla yapılmaya başlandı.
+</value>
+  </data>
+</root>

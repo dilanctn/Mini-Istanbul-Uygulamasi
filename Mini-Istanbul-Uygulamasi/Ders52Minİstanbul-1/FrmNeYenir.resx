@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>İstanbul’un nesi meşhur, Dünya’nın en eski şehirlerinden biri ve Asya ile Avrupa arasındaki köprü olan İstanbul, tarihte Roma’dan Bizans’a Latin İmparatorluğu’ndan Osmanlı’ya pek çok imparatorluğa ev sahipliği yapmıştır. Tarihiyle, mimarisiyle, görkemli güzelliğiyle göz kamaştıran İstanbul, yemekleriyle de oldukça ilgi çekiyor. O halde İstanbul’un Osmanlı mutfağına kadar uzanan yemek kültürüne ve nefis lezzetlerine bir göz atalım.
+
+İstanbul’un En Meşhur Yemekleri ve İçecekleri
+Sultanahmet Köftesi
+Ortaköy Kumpiri
+Sarıyer Börek
+Eminönü Balık Ekmek
+Sütlüce Uykuluk
+Süleymaniye Kuru Fasulyesi
+Vefa Bozası
+Kanlıca Yoğurdu
+Pierre Loti Kahvesi
+Beyoğlu Çikolatası
+Sultanahmet-Köfte
+
+Köfte severlerin muhakkak denemesi gereken Sultanahmet Köftesinin lezzeti bir başka. Sultanahmet köftecilerinin en eskisi, 1920 yılında açılan Tarihi Sultanahmet Halk Köftecisi Selim Usta’dır ancak semtin her noktasında bu muhteşem lezzete rastlamanız da mümkün.
+
+Ortaköy-Kumpir
+
+Ortaköy’ün en sevilen ve bilinen lezzetlerinden olan Kumpir, özellikle turistler tarafından çokça tercih edilmektedir. Sadece turistler değil yolu Ortaköy’e düşen İstanbulluların da yemekten son derece zevk aldığı bu lezzeti denemeyi unutmayın.
+
+Sarıyer-Börek
+
+Böreğin her türlüsü var ülkemizde belki de. Her yörede ayrı güzel olan börek çeşitlerimizi bir yana koyalım ne bugün İstanbul’un nefis Sarıyer böreğine bakalım. Peynirli, kıymalı, ıspanaklı ve patatesli çeşitleriyle Sarıyer sokaklarını mis gibi kokutan bu böreğin kendine has bir lezzeti var.
+
+Eminönü-Balık Ekmek
+
+İstanbul’un simge semtlerinden biri olan Eminönü’nden geçerken balık ekmek kokusu ile iştahınız kabaracaktır. “Balık ekmek işte, nesi var ki?” diyenlere denemeden karar vermeyin diyelim. Bu arada Eminönü’nde balık ekmek yeme fırsatı bulanlara aynı yerde bulunan turşu dükkânlarına da uğramayı öneriyoruz.
+
+Sütlüce-Uykuluk
+
+Bir sakatat türü olan Uykuluğun en güzel hali Sütlüce’de yenir. Pek çok faydası olan Uykuluk genelde bahar aylarında tüketilmektedir.
+
+Süleymaniye-Kuru Fasulye
+
+Kuru fasülyenin nesi meşhur demeyin! Adını Süleymaniye Külliyesi’nden almış olan Süleymaniye semtinin kuru fasülyecileri meşhur.
+
+Vefa-Boza
+
+Boza denilince İstanbul’un Vefa’sı gelir akıllara. Kış aylarının sevilerek tüketilen bu içeceği 1876 yılından beri Vefa semtinde yapılmaktadır. En eski sıcak Türk içeceği olan Bozanın bağışıklık sistemine oldukça faydalı olduğunu da belirtelim.
+
+Kanlıca-Yoğurt
+
+Adını Osmanlı zamanından bir hikayeden alan Kanlıca semtinin en meşhur lezzeti yoğurdudur. Pudra şekeri ile beraber tüketildiğinde unutulmaz bir lezzete sahip olan bu yoğurdu denemeyi unutmayın.
+
+Pierre Loti – Kahve
+
+İstanbul ayaklarınızın altındayken muhteşem manzaranın tadını çıkararak kahvenizi mi yudumlamak istiyorsunuz? O halde buyurun Pierre Loti’ ye gidelim.  Kahve evleri ile meşhur olan Pierre Loti’ ye teleferikle çıkabilir ve Haliç’i izlerken kahvenizin tadına varabilirsiniz.
+
+Beyoğlu Çikolatası
+
+Beyoğlu sokaklarının dört bir yanını saran o muhteşem kokusuyla Beyoğlu çikolatası lezzetiyle baş döndürüyor. Yıllardır kalitesini koruyan Beyoğlu çikolataları semtin her bir köşesinde mevcut. Bu lezzetin tadına muhakkak bakın deriz ama dikkat edin kendinizi çok kaptırmayın :)
+</value>
+  </data>
+</root>
